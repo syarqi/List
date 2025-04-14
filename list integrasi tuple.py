@@ -1,4 +1,3 @@
-# Loop utama yang diperbarui
 while True:
     loading2("")
     print("===============================")
